@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Drew. I build products and write about web dev, building and marketing SaaS, and the books I’m reading.
+
+I'm also the author of Next.js Notes, a newsletter and blog for Next.js developers.
+
+<a href="https://nextjsnotes.com?ref=gh-readme" target="_blank"><img src="https://nextjsnotes.com/content/images/2020/08/4A20E394-C2B6-47BB-B328-84E1A4199157.jpeg" width="300"/></a>
+
+One of my most popular articles is [Why Next.js](https://nextjsnotes.com/why-nextjs/), a post describing the pros and cons of using Next.js.
+
+If you're an experience Next.js developer or just getting started, [sign up](https://nextjsnotes.com) to stay up-to-date on the latest Next.js framework features and trends.

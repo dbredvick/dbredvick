@@ -21,6 +21,6 @@ I'm also the author of Next.js Notes, a newsletter and blog for Next.js develope
 
 <a href="https://nextjsnotes.com?ref=gh-readme" target="_blank"><img src="https://nextjsnotes.com/content/images/2020/08/4A20E394-C2B6-47BB-B328-84E1A4199157.jpeg" width="300"/></a>
 
-One of my most popular articles is [Why Next.js](https://nextjsnotes.com/why-nextjs/), a post describing the pros and cons of using Next.js.
+One of my most popular articles is [Why Next.js](https://nextjsnotes.com/why-nextjs?ref=gh-readme), a post describing the pros and cons of using Next.js.
 
-If you're an experience Next.js developer or just getting started, [sign up](https://nextjsnotes.com) to stay up-to-date on the latest Next.js framework features and trends.
+If you're an experience Next.js developer or just getting started, [sign up](https://nextjsnotes.com?ref=gh-readme) to stay up-to-date on the latest Next.js framework features and trends.

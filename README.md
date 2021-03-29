@@ -27,9 +27,9 @@ I write about everything I learn at [drew.tech](https://drew.tech/).
 
 I've written a lot about:
 
-- [Next.js tips and tricks](https://drew.tech/topics/nextjs)
-- [Intro to Core Web Vitals](https://drew.tech/topics/core-web-vitals)
-- [Building side projects as a solo founder](https://drew.tech/topics/side-projects)
+- [Next.js tips and tricks](https://drew.tech/notes-on-nextjs)
+- [Intro to Core Web Vitals](https://drew.tech/the-ripple-of-web-vitals)
+- [Building side projects as a solo founder](https://newsletter.drew.tech)
 
 Let's connect on [Twitter](https://twitter.com/DBredvick) or you can [email](mailto:drewb@hey.com) me.
 

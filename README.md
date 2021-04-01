@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Drew. I work in tech and bootstrap products on the side to earn my financial freedom. I'm interested in tech that enables solo-founders. Right now that includes:
+I'm Drew. I'm bootstrapping products as a solo-founder (currently [plzdm.me](https://plzdm.me)). At the moment I'm building with:
 
 - Amplify
 - Next.js 
@@ -23,14 +23,6 @@ I'm Drew. I work in tech and bootstrap products on the side to earn my financial
 - Tailwind
 - Vercel
 
-I write about everything I learn at [drew.tech](https://drew.tech/).
-
-I've written a lot about:
-
-- [Next.js tips and tricks](https://drew.tech/notes-on-nextjs)
-- [Intro to Core Web Vitals](https://drew.tech/the-ripple-of-web-vitals)
-- [Building side projects as a solo founder](https://newsletter.drew.tech)
+I write longer form essays at [drew.tech](https://drew.tech/) and a weekly newsletter for bootstrappers at [newsletter.drew.tech](https://newsletter.drew.tech).
 
 Let's connect on [Twitter](https://twitter.com/DBredvick) or you can [email](mailto:drewb@hey.com) me.
-
-

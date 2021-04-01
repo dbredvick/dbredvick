@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Drew. I'm bootstrapping products as a solo-founder (currently [plzdm.me](https://plzdm.me)). At the moment I'm building with:
+I'm Drew. I'm bootstrapping products as a solo-founder (currently [plzdm.me](https://plzdm.me)). 
+
+At the moment I'm building with:
 
 - Amplify
 - Next.js 

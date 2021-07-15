@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Drew. I build products in areas I'm interested in and write about it (currently building [fitvitals.dev](https://fitvitals.dev), a free tool to check your Core Web Vital health). 
+Hey, my name is Drew – I'm a Software Engineer at ▲Vercel. I'm a full stack JavaScript developer and have worked in e-commerce at the intersection of marketing and engineering most of my career.
 
-I write longer form essays at [drew.tech](https://drew.tech/) and a weekly newsletter at [drew.tech/newsletter](https://drew.tech/newsletter).
+I've shipped tons of products (a few successes, a few more failures) and write about how I use React & Next.js to build side projects & startups.
 
+I write a weekly-ish newsletter and longer form posts occasionally.
+
+Sign up here if you want emails from me about building real products with Next.js.
 Let's connect on [Twitter](https://twitter.com/DBredvick) or you can [email](mailto:drewb@hey.com) me.
 
 ### Uses

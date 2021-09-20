@@ -22,7 +22,7 @@ I've shipped tons of products (a few successes, a few more failures) and write a
 I write a weekly-ish newsletter and longer form posts occasionally.
 
 Sign up here if you want emails from me about building real products with Next.js.
-Let's connect on [Twitter](https://twitter.com/DBredvick) or you can [email](mailto:drewb@hey.com) me.
+Let's connect on [Twitter](https://twitter.com/DBredvick) or you can [email](mailto:me@drew.tech) me.
 
 ### Uses
 At the moment I'm building with:

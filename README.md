@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, my name is Drew – I'm a Software Engineer at ▲Vercel. I'm a full stack JavaScript developer and have worked in e-commerce at the intersection of marketing and engineering most of my career.
+Hey there 👋
 
-I've shipped tons of products (a few successes, a few more failures) and write about how I use React & Next.js to build side projects & startups.
+My name is Drew – I'm a Software Engineer at ▲Vercel.
 
-I write a weekly-ish newsletter and longer form posts occasionally.
+I've shipped tons of products and write about how I use React & Next.js to build side projects & startups.
 
-Sign up here if you want emails from me about building real products with Next.js.
-Let's connect on [Twitter](https://twitter.com/DBredvick) or you can [email](mailto:me@drew.tech) me.
+I write a weekly-ish newsletter containing three tips for your side projects, two web dev articles, and one project update from me.
+
+[Sign up here](https://newsletter.drew.tech) if you want emails from me about building real products with Next.js.
+
+Let's connect on [Twitter](https://twitter.com/DBredvick) or you can [email](mailto:hey@drew.tech) me.
 
 ### Uses
 At the moment I'm building with:
@@ -35,5 +38,5 @@ At the moment I'm building with:
 
 and here are some articles about why I use them:
 
-- [Why Next.js?](https://drew.tech/why-nextjs)
-- [Supabase — A Backend for IndieHackers](https://drew.tech/supabase-a-backend-for-indiehackers)
+- [Why Next.js?](https://drew.tech/posts/why-nextjs)
+- [Supabase — A Backend for IndieHackers](https://drew.tech/posts/supabase-a-backend-for-indiehackers)

@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there 👋
-
 My name is Drew – I'm a Software Engineer at ▲Vercel.
 
 I've shipped tons of products and write about how I use React & Next.js to build side projects & startups.

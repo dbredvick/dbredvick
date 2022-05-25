@@ -15,26 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Drew – I'm a Software Engineer at ▲Vercel.
+My name is Drew – I'm an Engineer at ▲Vercel.
 
-I've shipped tons of products and write about how I use React & Next.js to build side projects & startups.
+I'm writing about my journey to replicate my full-time salary with product revenue over the next [1,000 days](https://drew.tech/posts/bootstrap-1000).
 
-I write a weekly-ish newsletter containing three tips for your side projects, two web dev articles, and one project update from me.
+### Tools I've built
 
-[Sign up here](https://newsletter.drew.tech) if you want emails from me about building real products with Next.js.
-
-Let's connect on [Twitter](https://twitter.com/DBredvick) or you can [email](mailto:hey@drew.tech) me.
+- [TrySlater.com](https://tryslater.com) — Built-in scheduling in Next.js (cron jobs)
+- [FitVitals.dev](https://fitvitals.dev) — Check your website performance using Core Web Vitals
+- [PlzDM.me](https://plzdm.me) — Superpowers for your Twitter DMs
+- [BeeSocial.io](https://beesocial.io) — Automate social media follow up after Zoom calls
 
 ### Uses
 At the moment I'm building with:
 
-- React
 - Next.js
-- Supabase
-- Tailwind
 - Vercel
+- TailwindCSS & UI
+- NextAuth
+- Prisma
+- Planetscale
 
-and here are some articles about why I use them:
+and here are some articles about tech choices:
 
 - [Why Next.js?](https://drew.tech/posts/why-nextjs)
 - [Supabase — A Backend for IndieHackers](https://drew.tech/posts/supabase-a-backend-for-indiehackers)
+- [Ecomm Manifesto](https://drew.tech/posts/ecom-manifesto)
+- [On good tech debt](https://drew.tech/posts/on-good-tech-debt)

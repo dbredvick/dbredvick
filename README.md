@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Drew – I'm an Engineer at ▲Vercel.
+My name is Drew – I'm making the web faster at ▲[Vercel](https://drew.tech/posts/vercel) while [bootstrapping SaaS](https://drew.tech/posts/bootstrap-1000) on the side.
 
-I'm writing about my journey to replicate my full-time salary with product revenue over the next [1,000 days](https://drew.tech/posts/bootstrap-1000).
+I'm currently building [TrySlater.com](https://tryslater.com), the best way to create cron jobs in Next.js.
+
+I write about web dev, startups, and Next.js. See my back catalog of posts [here](https://drew.tech/posts).
 
 ### Tools I've built
 

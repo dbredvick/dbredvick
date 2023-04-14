@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 
 My name is Drew – I'm building SaaS for GTM teams while growing sales engineering at ▲[Vercel](https://drew.tech/posts/vercel).
 
-I’m building [SoloSync](https://solosync.io) — a B2B SaaS for go-to-market teams and doing it in public.
-
 I write about web dev, startups, and Next.js [here](https://drew.tech/newsletter).
 
-### Tools I've built
+### Now
 
-- [SoloSync.io](https://solosync.io) — Salesforce to Notion made easy.
-- [TrySlater.com](https://tryslater.com) — Built-in scheduling in Next.js (cron jobs)
-- [FitVitals.dev](https://fitvitals.dev) — Check your website performance using Core Web Vitals
-- [PlzDM.me](https://plzdm.me) — Superpowers for your Twitter DMs
-- [BeeSocial.io](https://beesocial.io) — Automate social media follow up after Zoom calls
+I'm building tools for go-to-market teams, especially at DevTool companies like Vercel. As a developer turned sales engineer, I love using code to fix the painful parts of selling. 
+
+I’m building [SoloSync](https://solosync.io) SoloSync, which makes keeping Salesforce and Notion in sync so that teams can stay on the same page while reducing your Salesforce bill.
+
+I discovered many of these problems working enterprise sales deals at Vercel. 
+
+_btw — you should probably [learn sales](https://drew.tech/posts/learning-sales-as-an-engineer)_
 
 ### Uses
 At the moment I'm building with:
@@ -44,6 +44,3 @@ and here are some articles about tech choices:
 - [Supabase — A Backend for IndieHackers](https://drew.tech/posts/supabase-a-backend-for-indiehackers)
 - [Ecomm Manifesto](https://drew.tech/posts/ecom-manifesto)
 - [On good tech debt](https://drew.tech/posts/on-good-tech-debt)
-
-
-_p.s. — you should probably [learn sales](https://drew.tech/posts/learning-sales-as-an-engineer)_

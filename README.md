@@ -33,7 +33,6 @@ I write about web dev, startups, and Next.js [here](https://drew.tech/newsletter
 At the moment I'm building with:
 
 - Next.js
-- Vercel
 - TailwindCSS & UI
 - NextAuth
 - Prisma

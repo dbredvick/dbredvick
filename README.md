@@ -27,7 +27,7 @@ I’m building [SoloSync](https://solosync.io) SoloSync, which makes keeping Sal
 
 I discovered many of these problems working enterprise sales deals at Vercel. 
 
-_btw — you should probably [learn sales](https://drew.tech/posts/learning-sales-as-an-engineer)_
+_btw — you should probably [learn sales](https://drew.tech/posts/learning-sales-as-an-engineer)._
 
 ### Uses
 At the moment I'm building with:

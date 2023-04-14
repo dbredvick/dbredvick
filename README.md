@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Drew – I'm making the web faster at ▲[Vercel](https://drew.tech/posts/vercel) while [bootstrapping SaaS](https://drew.tech/posts/bootstrap-1000) on the side.
+My name is Drew – I'm building SaaS for GTM teams while growing sales engineering at ▲[Vercel](https://drew.tech/posts/vercel).
 
-I'm currently building [TrySlater.com](https://tryslater.com), the best way to create cron jobs in Next.js.
+I’m building [SoloSync](https://solosync.io) — a B2B SaaS for go-to-market teams and doing it in public.
 
-I write about web dev, startups, and Next.js. See my back catalog of posts [here](https://drew.tech/posts).
+I write about web dev, startups, and Next.js [here](https://drew.tech/newsletter).
 
 ### Tools I've built
 
+- [SoloSync.io](https://solosync.io) — Salesforce to Notion made easy.
 - [TrySlater.com](https://tryslater.com) — Built-in scheduling in Next.js (cron jobs)
 - [FitVitals.dev](https://fitvitals.dev) — Check your website performance using Core Web Vitals
 - [PlzDM.me](https://plzdm.me) — Superpowers for your Twitter DMs
@@ -44,3 +45,6 @@ and here are some articles about tech choices:
 - [Supabase — A Backend for IndieHackers](https://drew.tech/posts/supabase-a-backend-for-indiehackers)
 - [Ecomm Manifesto](https://drew.tech/posts/ecom-manifesto)
 - [On good tech debt](https://drew.tech/posts/on-good-tech-debt)
+
+
+_p.s. — you should probably [learn sales](https://drew.tech/posts/learning-sales-as-an-engineer)_

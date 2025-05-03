@@ -17,15 +17,13 @@ Here are some ideas to get you started:
 
 My name is Drew – I'm building SaaS for GTM teams while growing sales engineering at ▲[Vercel](https://drew.tech/posts/vercel).
 
-I write about web dev, startups, and Next.js [here](https://drew.tech/newsletter).
+I write about web dev, startups, and Next.js [here](https://drew.tech/).
 
 ### Now
 
 I'm building tools for go-to-market teams, especially at DevTool companies like Vercel. As a developer turned sales engineer, I love using code to fix the painful parts of selling. 
 
-I’m building [SoloSync](https://solosync.io) SoloSync, which makes keeping Salesforce and Notion in sync so that teams can stay on the same page while reducing your Salesforce bill.
-
-I discovered many of these problems working enterprise sales deals at Vercel. 
+I’m building [SoloSync](https://gptreport.com) GPT Report, the best way to stay stay on top of your brand's appearance in ChatGPT and other LLMs.
 
 _btw — you should probably [learn sales](https://drew.tech/posts/learning-sales-as-an-engineer)._
 
@@ -33,14 +31,14 @@ _btw — you should probably [learn sales](https://drew.tech/posts/learning-sal
 At the moment I'm building with:
 
 - Next.js
-- TailwindCSS & UI
-- NextAuth
-- Prisma
+- Tailwind & Shadcn
+- Clerk
+- Drizzle
 - Planetscale
 
-and here are some articles about tech choices:
+and here are some articles about tech:
 
 - [Why Next.js?](https://drew.tech/posts/why-nextjs)
-- [Supabase — A Backend for IndieHackers](https://drew.tech/posts/supabase-a-backend-for-indiehackers)
+- [The Economics of AI-powered dev efficiency](https://drew.tech/posts/dev-efficiency)
 - [Ecomm Manifesto](https://drew.tech/posts/ecom-manifesto)
 - [On good tech debt](https://drew.tech/posts/on-good-tech-debt)

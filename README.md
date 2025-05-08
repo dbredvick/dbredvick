@@ -23,7 +23,7 @@ I write about web dev, startups, and Next.js [here](https://drew.tech/).
 
 I'm building tools for go-to-market teams, especially at DevTool companies like Vercel. As a developer turned sales engineer, I love using code to fix the painful parts of selling. 
 
-I’m building [SoloSync](https://gptreport.com) GPT Report, the best way to stay stay on top of your brand's appearance in ChatGPT and other LLMs.
+I’m building [GPT Report](https://gptreport.com), the best way to stay stay on top of your brand's appearance in ChatGPT and other LLMs.
 
 _btw — you should probably [learn sales](https://drew.tech/posts/learning-sales-as-an-engineer)._
 

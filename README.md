@@ -15,22 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Drew – I'm building SaaS for GTM teams while growing sales engineering at ▲[Vercel](https://drew.tech/posts/vercel).
-
-I write about web dev, startups, and Next.js [here](https://drew.tech/).
+I’m Drew Bredvick, leading GTM Engineering at Vercel. I write playbooks from the field, notes from side projects, and reflections on the craft of shipping and selling software [here](https://drew.tech/).
 
 ### Now
 
-I'm building tools for go-to-market teams, especially at DevTool companies like Vercel. As a developer turned sales engineer, I love using code to fix the painful parts of selling. 
-
-I’m building [GPT Report](https://gptreport.com), the best way to stay stay on top of your brand's appearance in ChatGPT and other LLMs.
+I joined Vercel's go-to-market team four years ago and am building a team to build the future of GTM with AI.
 
 _btw — you should probably [learn sales](https://drew.tech/posts/learning-sales-as-an-engineer)._
 
 ### Uses
 At the moment I'm building with:
 
-- Next.js
+- Next.js + AI SDK
 - Tailwind & Shadcn
 - Clerk
 - Drizzle
@@ -39,6 +35,7 @@ At the moment I'm building with:
 and here are some articles about tech:
 
 - [Why Next.js?](https://drew.tech/posts/why-nextjs)
-- [The Economics of AI-powered dev efficiency](https://drew.tech/posts/dev-efficiency)
 - [Ecomm Manifesto](https://drew.tech/posts/ecom-manifesto)
 - [On good tech debt](https://drew.tech/posts/on-good-tech-debt)
+- [AI is Oil](https://drew.tech/posts/ai-is-oil)
+- [The economics of AI-powered dev efficiency](https://drew.tech/posts/dev-efficiency)

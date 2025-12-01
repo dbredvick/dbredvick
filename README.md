@@ -23,19 +23,12 @@ I joined Vercel's go-to-market team four years ago and am building a team to bui
 
 _btw — you should probably [learn sales](https://drew.tech/posts/learning-sales-as-an-engineer)._
 
-### Uses
-At the moment I'm building with:
+### Writing
 
-- Next.js + AI SDK
-- Tailwind & Shadcn
-- Clerk
-- Drizzle
-- Planetscale
+Some of the best articles I've written:
 
-and here are some articles about tech:
-
+- [GTM Engineering — Why now?](https://drew.tech/posts/gtm-eng-why-now)
 - [Why Next.js?](https://drew.tech/posts/why-nextjs)
-- [Ecomm Manifesto](https://drew.tech/posts/ecom-manifesto)
 - [On good tech debt](https://drew.tech/posts/on-good-tech-debt)
 - [AI is Oil](https://drew.tech/posts/ai-is-oil)
 - [The economics of AI-powered dev efficiency](https://drew.tech/posts/dev-efficiency)

@@ -27,6 +27,7 @@ _btw — you should probably [learn sales](https://drew.tech/posts/learning-sal
 
 Some of the best articles I've written:
 
+- [The ROI of Agentic GTM](https://drew.tech/posts/roi-of-agentic-gtm)
 - [GTM Engineering — Why now?](https://drew.tech/posts/gtm-eng-why-now)
 - [Why Next.js?](https://drew.tech/posts/why-nextjs)
 - [On good tech debt](https://drew.tech/posts/on-good-tech-debt)
